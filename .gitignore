@@ -1,0 +1,4 @@
+.venv
+venv
+TableExtraction/PDFs/*
+tables.xlsx
